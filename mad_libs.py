@@ -1,0 +1,17 @@
+#Mad libs
+silly_name = input("Write a silly name: ")
+activity = input("Write an activity: ")
+grade_school = input("Write a grade in school: ")
+food = input("Write a food: ")
+bug = input("Write a type of bug: ")
+day_week = input("Write a name of the week: ")
+color_plant = input("Write a color plant: ")
+cool_adjective = input("Write a cool adjective: ")
+favorite_color = input("Write your favorite color: ")
+number = input("Write a number: ")
+type_clothes = input("Write a type of clothes: ")
+favorite_smell = input("Write your favorite smell: ")
+favorite_movie = input("Write your favorite movie: ")
+verb = input("Write a verb: ")
+
+print(f"A superhero named {silly_name} is really, really good\nat {activity}. She wasn't always this way, when she\nwas in {grade_school}, all she did was eat {food} and\nsay mean things about {bug}. Then one day,\non {day_week}, she stepped on a {color_plant} and\nstarted to transform. Her boring outfit suddenly\nbecame {cool_adjective} and her hair turned {favorite_color}.\nThe best part was she had {number} jewels on her\n{type_clothes} that sparkled in the sun. She smelled like\n{favorite_smell} and knew all the words to {favorite_movie}.\nEveryone wanted to be her friend so they could\n{verb} together. She shared the magic with everyone,\nand that's how we became superkids...")
